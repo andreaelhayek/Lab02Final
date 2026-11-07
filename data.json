@@ -1,0 +1,17 @@
+{
+    "chart_title": "Weekly Study Hours",
+    "data_points": [
+        {"label": "Week 1", "value": 12},
+        {"label": "Week 2", "value": 15},
+        {"label": "Week 3", "value": 14},
+        {"label": "Week 4", "value": 18},
+        {"label": "Week 5", "value": 20},
+        {"label": "Week 6", "value": 17},
+        {"label": "Week 7", "value": 22},
+        {"label": "Week 8", "value": 25},
+        {"label": "Week 9", "value": 19},
+        {"label": "Week 10", "value": 24},
+        {"label": "Week 11", "value": 28},
+        {"label": "Week 12", "value": 21}
+    ]
+}
